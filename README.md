@@ -1,5 +1,5 @@
 # appropriate/tcpdump
-Alpine-based image with just tcpdump
+Alpine-based image with just tcpdump 4.99.4
 
 ## Usage
 
@@ -9,11 +9,10 @@ $ docker run --rm --net=host appropriate/tcpdump
 
 ## Tags
 
-* `appropriate/tcpdump:latest`: based on `alpine:latest`
-* `appropriate/tcpdump:edge`: based on `alpine:edge`
+* `appropriate/tcpdump:4.99.4`: based on `alpine:3.19`
 
 ## License
 
-Copyright © 2015 Appropriate Computing
+Copyright © 2024
 
 All contents licensed under the [MIT License](LICENSE)
